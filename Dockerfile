@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:numbat
 
 LABEL maintainer="lucas@vieira.io"
 LABEL version="1.0"
